@@ -31,7 +31,8 @@ public class AgregarActivity extends Activity {
 		gestion.close();
 		//finalizamos la actividad
 		this.finish();
-		
+		//cambio
+
 	}
 	
 }

@@ -26,7 +26,7 @@ public class MainActivity extends Activity {
 		this.startActivity(intent);
 	}
 	public void ver(View v){
-		//commit 2
+		//commit 23
 		Intent intent=new Intent(this,ListadoActivity.class);
 		this.startActivity(intent);
 	}

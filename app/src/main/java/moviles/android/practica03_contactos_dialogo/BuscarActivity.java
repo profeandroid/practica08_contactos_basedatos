@@ -32,7 +32,7 @@ public class BuscarActivity extends Activity {
 		gestion.close();
 	}
 	public void salir(View v){
-
+		//finaliza la actividad
 		this.finish();
 	}
 

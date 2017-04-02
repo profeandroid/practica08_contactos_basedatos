@@ -33,6 +33,6 @@ public class Contacto implements Serializable{
 
 	@Override
 	public String toString() {
-		return nombre;
+		return nombre+"changeeee";
 	}
 }

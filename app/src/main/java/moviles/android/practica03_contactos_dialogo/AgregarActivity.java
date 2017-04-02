@@ -32,7 +32,7 @@ public class AgregarActivity extends Activity {
 		//finalizamos la actividad
 		this.finish();
 		//cambio
-
+	// y mas cambios por hacer
 	}
 	
 }
